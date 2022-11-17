@@ -6,8 +6,8 @@ Your goal is going to be to understand what happens during a speed dating and es
 
 ## Script description
 
-Part 0 : Candidate's profile analysis
-Part 1 : Female and male point of view processing analysis (not ready)
-Part 2 : Matching analysis
+- Part 0 : Candidate's profile analysis
+- Part 1 : Female and male point of view processing analysis (not ready)
+- Part 2 : Matching analysis
 
 ## The video explanatory
